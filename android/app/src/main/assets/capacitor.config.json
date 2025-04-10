@@ -1,0 +1,6 @@
+{
+	"appId": "com.krypton.android",
+	"appName": "krypton",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
